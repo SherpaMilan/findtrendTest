@@ -13,6 +13,7 @@ Sherpamilan
 
 - Responsive design
 - Clean HTML/CSS
+- Simple DOM manipulation
 - Navigation bar
 - Homepage layout
 - Product showcase
