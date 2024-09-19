@@ -26,12 +26,12 @@ To view the project locally, follow these steps:
 
 1. Clone the repository:
     ```bash 
-     git clone https://github.com/SherpaMilan/Findtrend-Webflow.git
+    https://github.com/SherpaMilan/findtrend.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd Findtrend-Webflow
+    cd findtrend
     ```
 
 3. Open `index.html` in your web browser to view the website.
