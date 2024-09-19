@@ -7,6 +7,7 @@ Findtrend-Webflow is a clone of the Findtrend website, created using only HTML a
 Sherpamilan
 
 ## Live
+https://findtrend-rho.vercel.app/
 
 
 ## Features
